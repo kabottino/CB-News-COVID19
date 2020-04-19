@@ -9,6 +9,10 @@
     display: flex;
     height: 70px;
 }
+.covidimg{
+  position: relative;
+  max-width: 1300px;
+}
 .navbar{
     display: flex;
     width: 100%;
