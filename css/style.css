@@ -38,6 +38,9 @@ div ul li a{
     color: white;
     height: 30px;
 }
+div ul li a:hover{
+  color: #061727;
+}
 .main{
     box-sizing: border-box;
 }
